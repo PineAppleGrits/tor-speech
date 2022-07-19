@@ -1,7 +1,7 @@
 const { join }            = require('path')
     , { tmpdir }          = require('os')
     , { spawn }           = require('child_process')
-    , { TorDownloader }   = require('@dreamed-atlas/tor-downloader')
+    , { TorDownloader }   = require('@PineAppleGrits/tor-downloader')
 
 ;(async () => {
   try {
