@@ -4,7 +4,7 @@
   "description": "Text speech api Yandex & Google + Tor",
   "main": "index.js",
   "dependencies": {
-    "@dreamed-atlas/tor-downloader": "^1.0.0",
+    "@dreamed-atlas/tor-downloader": "github:PineAppleGrits/tor-downloader",
     "child_process": "^1.0.2",
     "fs": "^0.0.1-security",
     "os": "^0.1.1",
